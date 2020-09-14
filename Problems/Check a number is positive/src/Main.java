@@ -9,7 +9,7 @@ class Main {
             System.out.println("YES");
         } else {
 
-            System.out.println("NO");
+            System.out.println("NO");22
         }
     }
 }
