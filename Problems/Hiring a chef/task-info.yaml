@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    //put imports you need here
+
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9057
+status: Failed
+feedback:
+  message: |-
+    Compilation error
+    Main.java:3: error: class SimpleBot is public, should be declared in a file named SimpleBot.java
+    public class SimpleBot {
+           ^
+    1 error
+
+    Please do not declare public classes.
+  time: Mon, 14 Sep 2020 06:45:33 UTC
+record: -1
