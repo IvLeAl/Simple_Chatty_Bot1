@@ -112,16 +112,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/113/stages/616/implement
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #1\n\nCan&#39;t find a correct age in the last line\
-    \ of output! Maybe you calculated the age wrong?\n\nYour last line: \n&quot;Your\
-    \ age is {yourAge}; that&#39;s a good time to start programming!&quot;\n\nPlease\
-    \ find below the output of your program during this failed test.\nNote that the\
-    \ &#39;&gt;&#39; character indicates the beginning of the input line.\n\n---\n\
-    \nHello! My name is Aid.\nI was created in 2018.\nPlease, remind me your name.\n\
-    &gt; John\nWhat a great name you have, John!\nLet me guess your age.\nEnter remainders\
-    \ of dividing your age by 3, 5 and 7.\nYour age is {yourAge}; that&#39;s a good\
-    \ time to start programming!"
-  time: Tue, 15 Sep 2020 13:52:24 UTC
-record: -1
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/113/stages/616/implement">JetBrains
+    Academy</a>
+  time: Tue, 15 Sep 2020 16:12:21 UTC
+record: 3
