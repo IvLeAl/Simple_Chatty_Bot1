@@ -12,15 +12,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9057
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Compilation error
-    Main.java:3: error: class SimpleBot is public, should be declared in a file named SimpleBot.java
-    public class SimpleBot {
-           ^
-    1 error
-
-    Please do not declare public classes.
-  time: Mon, 14 Sep 2020 06:45:33 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9057">JetBrains
+    Academy</a></html>
+  time: Mon, 28 Sep 2020 05:15:37 UTC
 record: -1
