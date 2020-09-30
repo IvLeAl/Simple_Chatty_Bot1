@@ -27,7 +27,7 @@ public class Tests extends StageTest<Clue> {
 
     @Override
     public List<TestCase<Clue>> generate() {
-        String input = "Marry\n1 0 5\n10";
+        String input = "Marry\n1\n0\n5\n10";
 
         for (int i = 1; i < 9; i++) {
             input += "\n" + i;
