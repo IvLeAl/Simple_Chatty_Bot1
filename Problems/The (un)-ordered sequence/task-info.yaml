@@ -12,11 +12,25 @@ files:
 feedback_link: https://hyperskill.org/learn/step/2734
 status: Failed
 feedback:
-  message: "Failed test #3 of 11. Runtime error\n\nThis is a sample test from the\
-    \ problem statement!\n\nTest input:\n1 2 5 5 2 3 0\nCorrect output:\nfalse\n\n\
-    Your code output:\ntruefalse\n\nError:\nException in thread \"main\" java.util.NoSuchElementException\n\
-    \tat java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\tat java.base/java.util.Scanner.next(Scanner.java:1594)\n\
-    \tat java.base/java.util.Scanner.nextInt(Scanner.java:2258)\n\tat java.base/java.util.Scanner.nextInt(Scanner.java:2212)\n\
-    \tat Main.main(Main.java:11)\n"
-  time: Thu, 01 Oct 2020 13:07:54 UTC
+  message: |
+    Failed test #1 of 11. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    9 8 7 6 5 4 3 2 1 0
+    Correct output:
+    true
+
+    Your code output:
+    1
+    2
+    2
+    3
+    3
+    3
+    4
+    4
+    4
+  time: Fri, 02 Oct 2020 10:20:28 UTC
 record: -1
