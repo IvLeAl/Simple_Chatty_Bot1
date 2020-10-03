@@ -11,9 +11,13 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2231
-status: Solved
+status: Failed
 feedback:
-  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2231">JetBrains
-    Academy</a></html>
-  time: Fri, 02 Oct 2020 10:22:41 UTC
+  message: "Failed test #1 of 12. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\n7\nCorrect output:\n1 2 2 3 3 3 4\n\nYour\
+    \ code output:\n\n\nError:\nException in thread \"main\" java.util.NoSuchElementException\n\
+    \tat java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\tat java.base/java.util.Scanner.next(Scanner.java:1594)\n\
+    \tat java.base/java.util.Scanner.nextInt(Scanner.java:2258)\n\tat java.base/java.util.Scanner.nextInt(Scanner.java:2212)\n\
+    \tat Main.main(Main.java:10)\n"
+  time: Fri, 02 Oct 2020 12:07:12 UTC
 record: -1
