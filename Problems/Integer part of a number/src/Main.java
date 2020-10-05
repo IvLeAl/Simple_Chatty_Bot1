@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Main {
 
     public static int extractInt(double d) {
+
+       int c = (int) d;
+       return c ;
         // write your code here
     }
 
