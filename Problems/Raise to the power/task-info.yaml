@@ -21,13 +21,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2727
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Compilation error
-    Main.java:18: error: illegal start of expression
-        public static void main(String[] args) {
-        ^
-    1 error
-  time: Mon, 05 Oct 2020 14:26:02 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2727">JetBrains
+    Academy</a></html>
+  time: Tue, 06 Oct 2020 05:31:12 UTC
 record: -1
